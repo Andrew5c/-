@@ -1,0 +1,6 @@
+<Projects version="2.0">
+	<Project active="1">2048.cfp</Project>
+	<File active="0">main.cpp</File>
+	<File active="0">functions.cpp</File>
+	<File active="1">board.h</File>
+</Projects>
